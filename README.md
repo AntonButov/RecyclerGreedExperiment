@@ -1,2 +1,2 @@
 # RecyclerGreedExperement 
-![](https://github.com/AntonButov/RecyclerGreedExperement/blob/master/screenshot.png)
+![](https://github.com/AntonButov/RecyclerGreedExperiment/blob/master/screenshot.png)
